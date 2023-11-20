@@ -5,7 +5,7 @@
   "label": null,
   "version": "81fcd86c0c99cb26d4060813252b3d306603789d",
   "state": null,
-  "propertySources": [
+  "propertySources": [ https://www.google.com/
     {
       "name": "https://github.com/ericdahl/spring-cloud-config-example/server-config/application.yml",
       "source": {
