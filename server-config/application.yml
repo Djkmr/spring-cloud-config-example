@@ -8,7 +8,7 @@
   "propertySources": [ 
     {
       "name": "https://github.com/ericdahl/spring-cloud-config-example/server-config/application.yml",
-      "source": {
+      "source": { 
         "info.foo": "bar",
         "info.someList[0]": 2,
         "info.someList[1]": 3,
