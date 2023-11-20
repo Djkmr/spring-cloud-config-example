@@ -1,0 +1,13 @@
+{
+  "spring": {
+    "datasource": {
+      "url": "https://www.yahoo.com/",
+      "username": "user",
+      "password": "pass"
+    }
+  },
+  "myapp": {
+    "feature-flag": true,
+    "timeout": 5000
+  }
+}
