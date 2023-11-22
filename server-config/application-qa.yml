@@ -1,13 +1,9 @@
 {
-  "spring": {
-    "datasource": {
-      "url": "https://www.yahoo.com/",
-      "username": "user",
-      "password": "pass"
-    }
-  },
-  "myapp": {
-    "feature-flag": true,
-    "timeout": 5000
-  }
-}
+  "name": "master",
+  "profiles": ["qa"],
+  "label": null,
+  "version": "81fcd86c0c99cb26d4060813252b3d306603789d",
+  "state": null,
+  "propertySources": [ 
+    {
+      "name": "https://github.com/ericdahl/spring-cloud-config-example/server-config/application.yml",
