@@ -6,4 +6,4 @@
   "state": null,
   "propertySources": [ 
     {
-      "name": "https://github.com/ericdahl/spring-cloud-config-example/server-config/application.yml",
+      "name": "https://github.com/ericdahl/spring-cloud-config-example/server-config/application.yml", 
